@@ -1,2 +1,4 @@
 # Python study documentation
-(This repository contains some of things I've learned about the language my University course was lecturing in the first semester of Computer Science.)
+(This repository contains some of things I've learned about the language my College course was lecturing in the first semester of Computer Science.)
+
+## May contain comments in my native language srr
